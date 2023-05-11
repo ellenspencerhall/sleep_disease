@@ -1,0 +1,21 @@
+"","disease_state","mental_health","mean_sleep_length"
+"1","Neither","excellent",425.16317016317
+"2","Neither","fair",429.530748663102
+"3","Neither","good",433.474299065421
+"4","Neither","poor",396.105769230769
+"5","Neither","very good",434.999689826303
+"6","Alzheimers","excellent",362.166666666667
+"7","Alzheimers","fair",408.041666666667
+"8","Alzheimers","good",339.25
+"9","Parkinsons","excellent",457.5
+"10","Parkinsons","fair",517
+"11","Parkinsons","good",474.708333333333
+"12","Parkinsons","poor",497.25
+"13","Parkinsons","very good",363.666666666667
+"14","Both","fair",262.416666666667
+"15","Alzheimers","very good",0
+"16","Alzheimers","poor",0
+"17","Both","poor",0
+"18","Both","good",0
+"19","Both","very good",0
+"20","Both","excellent",0
